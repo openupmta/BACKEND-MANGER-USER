@@ -1,0 +1,91 @@
+[{
+  "id": 1,
+  "first_name": "Anthia",
+  "last_name": "Paumier",
+  "username": "apaumier0",
+  "password": "pqwjEghVUazZ",
+  "role": "Guest",
+  "status": "Pending",
+  "create_date": "10/13/2020"
+}, {
+  "id": 2,
+  "first_name": "Zondra",
+  "last_name": "Doy",
+  "username": "zdoy1",
+  "password": "8AE9PR",
+  "role": "Staff",
+  "status": "Active",
+  "create_date": "10/13/2020"
+}, {
+  "id": 3,
+  "first_name": "Alastair",
+  "last_name": "Brunker",
+  "username": "abrunker2",
+  "password": "JyVGtx934hII",
+  "role": "Guest",
+  "status": "Inactive",
+  "create_date": "10/13/2020"
+}, {
+  "id": 4,
+  "first_name": "Chucho",
+  "last_name": "Shropsheir",
+  "username": "cshropsheir3",
+  "password": "DEBX7gM",
+  "role": "Guest",
+  "status": "Inactive",
+  "create_date": "10/13/2020"
+}, {
+  "id": 5,
+  "first_name": "Jordan",
+  "last_name": "Cant",
+  "username": "jcant4",
+  "password": "N6aAAD",
+  "role": "Member",
+  "status": "Inactive",
+  "create_date": "10/13/2020"
+}, {
+  "id": 6,
+  "first_name": "Janie",
+  "last_name": "Farra",
+  "username": "jfarra5",
+  "password": "lEHyU5OuznFY",
+  "role": "Guest",
+  "status": "Inactive",
+  "create_date": "10/13/2020"
+}, {
+  "id": 7,
+  "first_name": "Phaedra",
+  "last_name": "Granham",
+  "username": "pgranham6",
+  "password": "2Qq9OqKKe8",
+  "role": "Member",
+  "status": "Active",
+  "create_date": "10/13/2020"
+}, {
+  "id": 8,
+  "first_name": "Ulrika",
+  "last_name": "Zuanelli",
+  "username": "uzuanelli7",
+  "password": "thEEFJtfi",
+  "role": "Admin",
+  "status": "Inactive",
+  "create_date": "10/13/2020"
+}, {
+  "id": 9,
+  "first_name": "Brand",
+  "last_name": "Waterfall",
+  "username": "bwaterfall8",
+  "password": "skzvxLenmkn",
+  "role": "Guest",
+  "status": "Pending",
+  "create_date": "10/13/2020"
+}, {
+  "id": 10,
+  "first_name": "Gael",
+  "last_name": "Phipson",
+  "username": "gphipson9",
+  "password": "iIDJvTyp2JSo",
+  "role": "Admin",
+  "status": "Inactive",
+  "create_date": "10/13/2020"
+}]
